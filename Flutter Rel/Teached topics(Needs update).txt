@@ -1,0 +1,18 @@
+------Topics Done-----
+Navigator / push / pop / pushReplacement / (Column / Row MainAxis,Cross Axis) / Elevated Btn
+
+Splash Screen / Timers/ Future.delayed / Stack / box decoration > linear gradiant / image.network 
+
+stateless vs statefull widget / initstate / setState / dispose / lifecycle
+
+placHolder() / double.infinity / Media Query in detail > Responsiveness 
+
+Counter app / Anonymous Functions / onclick Callback functions / Increment counter / setState()
+
+TextFields / TextFormFields / Text Editing Controllers / onChange Function / Learned complete Decorations
+
+             -----------Learning FireBase------------
+Firebase Create Proj / Setup Firebase Cli / Connect & Initialize Firebase before MyApp() / Add Firebase_core Plugin
+
+Add Cloud_Firestore plugin / 
+>> Continue...
